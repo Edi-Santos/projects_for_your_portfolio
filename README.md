@@ -6,6 +6,8 @@
    - [Por que?](#por-que-fazer-isto)
 2. [Projetos](#projetos)
    - [Guia Rápido](#guia-rápido)
+3. [Lista de Projetos](#lista-de-projetos)
+   - [HTML e CSS](#html-e-css)
 
 ## Intenção dos Projetos
 
@@ -34,3 +36,16 @@ que buscou, podendo então fazer o fork do projeto para o seu GitHub e concluir 
 automatizados. Dentro do *README* de cada projeto estará mais detalhado como deverá ser feito.
 
 Sempre que eu lançar um projeto novo eu atualizarei este README, fazendo então com que aqui seja uma espécie de sumário com os projetos desta iniciativa.
+
+>*__Obs.__*: Como dito anteriormente, há um grupo no __Discord__, e nele também será avisado sempre que surgir um novo projeto ou uma atualização de projetos antigos for realizada.
+
+- Os projetos estarão divididos em categorias (Front-end, Back-end, Full-stack, JavaScript, entre outros) contendo as informações sobre _nível de dificuldade_ e _tecnologias a serem desenvolvidas_.
+
+---
+
+## Lista de Projetos
+
+### HTML e CSS
+- <a src='https://github.com/Edi-Santos/my_google-porfolio'>My Google</a>
+   - _**Nível**: Básico_
+   -   _**Tecnologias**: HTML e CSS_
