@@ -45,7 +45,7 @@ Sempre que eu lançar um projeto novo eu atualizarei este README, fazendo então
 
 ## Lista de Projetos
 
-### HTML e CSS
+#### HTML e CSS
 - <a src='https://github.com/Edi-Santos/my_google-porfolio'>My Google</a>
    - _**Nível**: Básico_
    -   _**Tecnologias**: HTML e CSS_
