@@ -50,3 +50,8 @@ Sempre que eu lançar um projeto novo eu atualizarei este README, fazendo então
 - <a href='https://github.com/Edi-Santos/my_google-porfolio'>My Google</a>
    - _**Nível**: Básico_
    -   _**Tecnologias**: HTML e CSS_
+
+#### Programação
+- <a href='https://github.com/Edi-Santos/its_time_to_func-portfolio'>It's Time To Func</a>
+   - _**Nível**: Básico_
+   - _**Tecnologias**: JavaScript_
