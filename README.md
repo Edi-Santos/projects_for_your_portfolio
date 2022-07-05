@@ -9,6 +9,7 @@
    - [Guia Rápido](#guia-rápido)
 3. [Lista de Projetos](#lista-de-projetos)
    - [HTML e CSS](#html-e-css)
+   - [Programação](#programação)
 
 ## Intenção dos Projetos
 
