@@ -8,7 +8,7 @@
 2. [Projetos](#projetos)
    - [Guia Rápido](#guia-rápido)
 3. [Lista de Projetos](#lista-de-projetos)
-   - [HTML e CSS](#html-e-css)
+   - [HTML, CSS e JavaScript](#html-css-e-javascript)
    - [Programação](#programação)
 
 ## Intenção dos Projetos
@@ -47,10 +47,14 @@ Sempre que eu lançar um projeto novo eu atualizarei este README, fazendo então
 
 ## Lista de Projetos
 
-#### HTML e CSS
+#### HTML, CSS e JavaScript
 - <a href='https://github.com/Edi-Santos/my_google-porfolio'>My Google</a>
    - _**Nível**: Básico_
-   -   _**Tecnologias**: HTML e CSS_
+   - _**Tecnologias**: HTML e CSS_
+
+- <a href='https://github.com/Edi-Santos/pomodoro-portfolio'>Pomodoro</a>
+   - _**Nível**: Básico/intermediário_
+   - _**Tecnologias**_: HTML, CSS e JavaScript
 
 #### Programação
 - <a href='https://github.com/Edi-Santos/its_time_to_func-portfolio'>It's Time To Func</a>
